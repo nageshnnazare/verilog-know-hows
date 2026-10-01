@@ -110,6 +110,12 @@ gtkwave alu_8bit.vcd
 6. **Week 6**: Examples 11-12 (Tri-state logic, signed arithmetic)
 7. **Week 7+**: Build your own projects!
 
+## More practice: HDLBits (182 problems)
+
+The [hdlbits/](../hdlbits/) folder contains every problem from [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page), with a restated statement, official figures, and a Verilog solution. Start with Getting Started, then mix Verilog Language problems with Circuits as the official site recommends.
+
+See [hdlbits/README.md](../hdlbits/README.md) for the full index.
+
 ## Tips for Learning
 
 1. **Read the code first** - Understand what it does

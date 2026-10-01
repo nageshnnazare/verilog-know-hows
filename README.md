@@ -80,6 +80,11 @@ Welcome to this comprehensive Verilog tutorial! This guide is designed for begin
 - Real-world applications
 - Common design patterns
 
+### Part 12: [HDLBits Problem Set](./hdlbits/)
+- All 182 problems from [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+- Restated problem statement, official figures/waveforms, and a Verilog `top_module` solution for each
+- Organized by the official topic list (language, combinational, sequential, FSMs, verification, CS450)
+
 ## 🎯 Learning Path
 
 1. **Week 1**: Complete Parts 1-2 (Basics and data types)
@@ -89,7 +94,7 @@ Welcome to this comprehensive Verilog tutorial! This guide is designed for begin
 5. **Week 5**: Complete Parts 6-7 (Testing and advanced topics)
 6. **Week 6**: Complete Parts 8-9 (Memory and protocols)
 7. **Week 7**: Complete Part 10 (Debugging)
-8. **Week 8+**: Practice with examples and build your own projects
+8. **Week 8+**: Practice with [examples](./examples/) and the [HDLBits problem set](./hdlbits/), then build your own projects
 
 ## 🔧 Tools You'll Need
 
@@ -163,6 +168,7 @@ Begin with [Part 1: Introduction to Verilog](./01_Introduction.md)
 
 ## Additional Resources
 
+- HDLBits (Verilog practice problems): https://hdlbits.01xz.net/wiki/Main_Page
 - IEEE Standard 1364-2005 (Verilog Specification)
 - Icarus Verilog Documentation: http://iverilog.icarus.com/
 - GTKWave Documentation: http://gtkwave.sourceforge.net/

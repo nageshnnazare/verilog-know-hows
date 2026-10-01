@@ -78,7 +78,8 @@ a b y
 
 1. **Start the tutorial**: Begin with [Part 1: Introduction](./01_Introduction.md)
 2. **Try examples**: Check out the [examples/](./examples/) directory
-3. **View waveforms**: Add `$dumpfile` and `$dumpvars` to see timing diagrams in GTKWave
+3. **Practice HDLBits**: Work through [hdlbits/](./hdlbits/) (all 182 problems, each with a restated statement and a `top_module` solution)
+4. **View waveforms**: Add `$dumpfile` and `$dumpvars` to see timing diagrams in GTKWave
 
 ## Tutorial Structure
 

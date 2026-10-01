@@ -1,0 +1,1091 @@
+{
+  "errors": [],
+  "files_written": 90,
+  "pages": {
+    "001_step_one": {
+      "images": [],
+      "page": "Step_one",
+      "waves": 0
+    },
+    "002_zero": {
+      "images": [],
+      "page": "Zero",
+      "waves": 0
+    },
+    "003_wire": {
+      "images": [
+        "Wire.png"
+      ],
+      "page": "Wire",
+      "waves": 0
+    },
+    "004_wire4": {
+      "images": [
+        "Wire4.png"
+      ],
+      "page": "Wire4",
+      "waves": 0
+    },
+    "005_notgate": {
+      "images": [
+        "Notgate.png"
+      ],
+      "page": "Notgate",
+      "waves": 0
+    },
+    "006_andgate": {
+      "images": [
+        "Andgate.png"
+      ],
+      "page": "Andgate",
+      "waves": 0
+    },
+    "007_norgate": {
+      "images": [
+        "Norgate.png"
+      ],
+      "page": "Norgate",
+      "waves": 0
+    },
+    "008_xnorgate": {
+      "images": [
+        "Xnorgate.png"
+      ],
+      "page": "Xnorgate",
+      "waves": 0
+    },
+    "009_wire_decl": {
+      "images": [
+        "Wiredecl1.png",
+        "Wiredecl2.png"
+      ],
+      "page": "Wire_decl",
+      "waves": 0
+    },
+    "010_chip7458": {
+      "images": [
+        "7458.png"
+      ],
+      "page": "7458",
+      "waves": 0
+    },
+    "011_vector0": {
+      "images": [
+        "Vector0.png"
+      ],
+      "page": "Vector0",
+      "waves": 0
+    },
+    "012_vector1": {
+      "images": [],
+      "page": "Vector1",
+      "waves": 0
+    },
+    "013_vector2": {
+      "images": [],
+      "page": "Vector2",
+      "waves": 0
+    },
+    "014_vectorgates": {
+      "images": [
+        "Vectorgates.png"
+      ],
+      "page": "Vectorgates",
+      "waves": 0
+    },
+    "015_gates4": {
+      "images": [],
+      "page": "Gates4",
+      "waves": 0
+    },
+    "016_vector3": {
+      "images": [
+        "Vector3.png"
+      ],
+      "page": "Vector3",
+      "waves": 0
+    },
+    "017_vectorr": {
+      "images": [],
+      "page": "Vectorr",
+      "waves": 0
+    },
+    "018_vector4": {
+      "images": [],
+      "page": "Vector4",
+      "waves": 0
+    },
+    "019_vector5": {
+      "images": [
+        "Vector5.png"
+      ],
+      "page": "Vector5",
+      "waves": 0
+    },
+    "020_module": {
+      "images": [
+        "Module_moda.png",
+        "Module.png"
+      ],
+      "page": "Module",
+      "waves": 0
+    },
+    "021_module_pos": {
+      "images": [
+        "Module_pos.png"
+      ],
+      "page": "Module_pos",
+      "waves": 0
+    },
+    "022_module_name": {
+      "images": [
+        "Module_name.png"
+      ],
+      "page": "Module_name",
+      "waves": 0
+    },
+    "023_module_shift": {
+      "images": [
+        "Module_shift.png"
+      ],
+      "page": "Module_shift",
+      "waves": 0
+    },
+    "024_module_shift8": {
+      "images": [
+        "Module_shift8.png"
+      ],
+      "page": "Module_shift8",
+      "waves": 0
+    },
+    "025_module_add": {
+      "images": [
+        "Module_add.png"
+      ],
+      "page": "Module_add",
+      "waves": 0
+    },
+    "026_module_fadd": {
+      "images": [
+        "Module_fadd.png"
+      ],
+      "page": "Module_fadd",
+      "waves": 0
+    },
+    "027_module_cseladd": {
+      "images": [
+        "Module_cseladd.png"
+      ],
+      "page": "Module_cseladd",
+      "waves": 0
+    },
+    "028_module_addsub": {
+      "images": [
+        "Module_addsub.png",
+        "Module_addsub_xor.png"
+      ],
+      "page": "Module_addsub",
+      "waves": 0
+    },
+    "029_alwaysblock1": {
+      "images": [
+        "Alwayscomb.png"
+      ],
+      "page": "Alwaysblock1",
+      "waves": 0
+    },
+    "030_alwaysblock2": {
+      "images": [
+        "Alwaysff.png"
+      ],
+      "page": "Alwaysblock2",
+      "waves": 0
+    },
+    "031_always_if": {
+      "images": [
+        "Always_if_mux.png"
+      ],
+      "page": "Always_if",
+      "waves": 0
+    },
+    "032_always_if2": {
+      "images": [
+        "Always_if2.png"
+      ],
+      "page": "Always_if2",
+      "waves": 0
+    },
+    "033_always_case": {
+      "images": [],
+      "page": "Always_case",
+      "waves": 0
+    },
+    "034_always_case2": {
+      "images": [],
+      "page": "Always_case2",
+      "waves": 0
+    },
+    "035_always_casez": {
+      "images": [],
+      "page": "Always_casez",
+      "waves": 0
+    },
+    "036_always_nolatches": {
+      "images": [],
+      "page": "Always_nolatches",
+      "waves": 0
+    },
+    "037_conditional": {
+      "images": [],
+      "page": "Conditional",
+      "waves": 0
+    },
+    "038_reduction": {
+      "images": [],
+      "page": "Reduction",
+      "waves": 0
+    },
+    "039_gates100": {
+      "images": [],
+      "page": "Gates100",
+      "waves": 0
+    },
+    "040_vector100r": {
+      "images": [],
+      "page": "Vector100r",
+      "waves": 0
+    },
+    "041_popcount255": {
+      "images": [],
+      "page": "Popcount255",
+      "waves": 0
+    },
+    "042_adder100i": {
+      "images": [],
+      "page": "Adder100i",
+      "waves": 0
+    },
+    "043_bcdadd100": {
+      "images": [],
+      "page": "Bcdadd100",
+      "waves": 0
+    },
+    "044_m2014_q4h": {
+      "images": [
+        "Exams_m2014q4h.png"
+      ],
+      "page": "Exams/m2014_q4h",
+      "waves": 0
+    },
+    "045_m2014_q4i": {
+      "images": [
+        "Exams_m2014q4i.png"
+      ],
+      "page": "Exams/m2014_q4i",
+      "waves": 0
+    },
+    "046_m2014_q4e": {
+      "images": [
+        "Exams_m2014q4e.png"
+      ],
+      "page": "Exams/m2014_q4e",
+      "waves": 0
+    },
+    "047_m2014_q4f": {
+      "images": [
+        "Exams_m2014q4f.png"
+      ],
+      "page": "Exams/m2014_q4f",
+      "waves": 0
+    },
+    "048_m2014_q4g": {
+      "images": [
+        "Exams_m2014q4g.png"
+      ],
+      "page": "Exams/m2014_q4g",
+      "waves": 0
+    },
+    "049_gates": {
+      "images": [],
+      "page": "Gates",
+      "waves": 0
+    },
+    "050_chip7420": {
+      "images": [
+        "7420.png"
+      ],
+      "page": "7420",
+      "waves": 0
+    },
+    "051_truthtable1": {
+      "images": [
+        "Truthtable1.png"
+      ],
+      "page": "Truthtable1",
+      "waves": 0
+    },
+    "052_mt2015_eq2": {
+      "images": [],
+      "page": "Mt2015_eq2",
+      "waves": 0
+    },
+    "053_mt2015_q4a": {
+      "images": [],
+      "page": "Mt2015_q4a",
+      "waves": 0
+    },
+    "054_mt2015_q4b": {
+      "images": [
+        "Mt2015_q4b.png"
+      ],
+      "page": "Mt2015_q4b",
+      "waves": 0
+    },
+    "055_mt2015_q4": {
+      "images": [
+        "Mt2015_q4.png"
+      ],
+      "page": "Mt2015_q4",
+      "waves": 0
+    },
+    "056_ringer": {
+      "images": [
+        "Ringer.png"
+      ],
+      "page": "Ringer",
+      "waves": 0
+    },
+    "057_thermostat": {
+      "images": [],
+      "page": "Thermostat",
+      "waves": 0
+    },
+    "058_popcount3": {
+      "images": [],
+      "page": "Popcount3",
+      "waves": 0
+    },
+    "059_gatesv": {
+      "images": [],
+      "page": "Gatesv",
+      "waves": 0
+    },
+    "060_gatesv100": {
+      "images": [],
+      "page": "Gatesv100",
+      "waves": 0
+    },
+    "061_mux2to1": {
+      "images": [],
+      "page": "Mux2to1",
+      "waves": 0
+    },
+    "062_mux2to1v": {
+      "images": [],
+      "page": "Mux2to1v",
+      "waves": 0
+    },
+    "063_mux9to1v": {
+      "images": [],
+      "page": "Mux9to1v",
+      "waves": 0
+    },
+    "064_mux256to1": {
+      "images": [],
+      "page": "Mux256to1",
+      "waves": 0
+    },
+    "065_mux256to1v": {
+      "images": [],
+      "page": "Mux256to1v",
+      "waves": 0
+    },
+    "066_hadd": {
+      "images": [],
+      "page": "Hadd",
+      "waves": 0
+    },
+    "067_fadd": {
+      "images": [],
+      "page": "Fadd",
+      "waves": 0
+    },
+    "068_adder3": {
+      "images": [],
+      "page": "Adder3",
+      "waves": 0
+    },
+    "069_m2014_q4j": {
+      "images": [
+        "Exams_m2014q4j.png"
+      ],
+      "page": "Exams/m2014_q4j",
+      "waves": 0
+    },
+    "070_ece241_2014_q1c": {
+      "images": [],
+      "page": "Exams/ece241_2014_q1c",
+      "waves": 0
+    },
+    "071_adder100": {
+      "images": [],
+      "page": "Adder100",
+      "waves": 0
+    },
+    "072_bcdadd4": {
+      "images": [],
+      "page": "Bcdadd4",
+      "waves": 0
+    },
+    "073_kmap1": {
+      "images": [
+        "Kmap1.png"
+      ],
+      "page": "Kmap1",
+      "waves": 0
+    },
+    "074_kmap2": {
+      "images": [
+        "Kmap2.png"
+      ],
+      "page": "Kmap2",
+      "waves": 0
+    },
+    "075_kmap3": {
+      "images": [
+        "Kmap3.png"
+      ],
+      "page": "Kmap3",
+      "waves": 0
+    },
+    "076_kmap4": {
+      "images": [
+        "Kmap4.png"
+      ],
+      "page": "Kmap4",
+      "waves": 0
+    },
+    "077_ece241_2013_q2": {
+      "images": [],
+      "page": "Exams/ece241_2013_q2",
+      "waves": 0
+    },
+    "078_m2014_q3": {
+      "images": [
+        "Exams_m2014q3.png"
+      ],
+      "page": "Exams/m2014_q3",
+      "waves": 0
+    },
+    "079_2012_q1g": {
+      "images": [
+        "Exams_2012q1g.png"
+      ],
+      "page": "Exams/2012_q1g",
+      "waves": 0
+    },
+    "080_ece241_2014_q3": {
+      "images": [
+        "Ece241_2014_q3.png",
+        "Ece241_2014_q3mux.png"
+      ],
+      "page": "Exams/ece241_2014_q3",
+      "waves": 0
+    },
+    "081_dff": {
+      "images": [
+        "Dff.png"
+      ],
+      "page": "Dff",
+      "waves": 0
+    },
+    "082_dff8": {
+      "images": [],
+      "page": "Dff8",
+      "waves": 0
+    },
+    "083_dff8r": {
+      "images": [],
+      "page": "Dff8r",
+      "waves": 0
+    },
+    "084_dff8p": {
+      "images": [],
+      "page": "Dff8p",
+      "waves": 0
+    },
+    "085_dff8ar": {
+      "images": [],
+      "page": "Dff8ar",
+      "waves": 0
+    },
+    "086_dff16e": {
+      "images": [],
+      "page": "Dff16e",
+      "waves": 0
+    },
+    "087_m2014_q4a": {
+      "images": [
+        "Exams_m2014q4a.png"
+      ],
+      "page": "Exams/m2014_q4a",
+      "waves": 0
+    },
+    "088_m2014_q4b": {
+      "images": [
+        "Exams_m2014q4b.png"
+      ],
+      "page": "Exams/m2014_q4b",
+      "waves": 0
+    },
+    "089_m2014_q4c": {
+      "images": [
+        "Exams_m2014q4c.png"
+      ],
+      "page": "Exams/m2014_q4c",
+      "waves": 0
+    },
+    "090_m2014_q4d": {
+      "images": [
+        "Exams_m2014q4d.png"
+      ],
+      "page": "Exams/m2014_q4d",
+      "waves": 0
+    },
+    "091_mt2015_muxdff": {
+      "images": [
+        "Mt2015_muxdff.png"
+      ],
+      "page": "Mt2015_muxdff",
+      "waves": 0
+    },
+    "092_2014_q4a": {
+      "images": [
+        "Exams_2014q4.png"
+      ],
+      "page": "Exams/2014_q4a",
+      "waves": 0
+    },
+    "093_ece241_2014_q4": {
+      "images": [
+        "Ece241_2014_q4.png"
+      ],
+      "page": "Exams/ece241_2014_q4",
+      "waves": 0
+    },
+    "094_ece241_2013_q7": {
+      "images": [],
+      "page": "Exams/ece241_2013_q7",
+      "waves": 0
+    },
+    "095_edgedetect": {
+      "images": [],
+      "page": "Edgedetect",
+      "waves": 1
+    },
+    "096_edgedetect2": {
+      "images": [],
+      "page": "Edgedetect2",
+      "waves": 1
+    },
+    "097_edgecapture": {
+      "images": [],
+      "page": "Edgecapture",
+      "waves": 1
+    },
+    "098_dualedge": {
+      "images": [],
+      "page": "Dualedge",
+      "waves": 1
+    },
+    "099_count15": {
+      "images": [],
+      "page": "Count15",
+      "waves": 1
+    },
+    "100_count10": {
+      "images": [],
+      "page": "Count10",
+      "waves": 1
+    },
+    "101_count1to10": {
+      "images": [],
+      "page": "Count1to10",
+      "waves": 1
+    },
+    "102_countslow": {
+      "images": [],
+      "page": "Countslow",
+      "waves": 1
+    },
+    "103_ece241_2014_q7a": {
+      "images": [],
+      "page": "Exams/ece241_2014_q7a",
+      "waves": 0
+    },
+    "104_ece241_2014_q7b": {
+      "images": [],
+      "page": "Exams/ece241_2014_q7b",
+      "waves": 0
+    },
+    "105_countbcd": {
+      "images": [],
+      "page": "Countbcd",
+      "waves": 1
+    },
+    "106_count_clock": {
+      "images": [],
+      "page": "Count_clock",
+      "waves": 1
+    },
+    "107_shift4": {
+      "images": [],
+      "page": "Shift4",
+      "waves": 0
+    },
+    "108_rotate100": {
+      "images": [],
+      "page": "Rotate100",
+      "waves": 0
+    },
+    "109_shift18": {
+      "images": [],
+      "page": "Shift18",
+      "waves": 0
+    },
+    "110_lfsr5": {
+      "images": [
+        "Lfsr5.png"
+      ],
+      "page": "Lfsr5",
+      "waves": 0
+    },
+    "111_mt2015_lfsr": {
+      "images": [
+        "Mt2015_muxdff.png"
+      ],
+      "page": "Mt2015_lfsr",
+      "waves": 0
+    },
+    "112_lfsr32": {
+      "images": [],
+      "page": "Lfsr32",
+      "waves": 0
+    },
+    "113_m2014_q4k": {
+      "images": [
+        "Exams_m2014q4k.png"
+      ],
+      "page": "Exams/m2014_q4k",
+      "waves": 0
+    },
+    "114_2014_q4b": {
+      "images": [
+        "Exams_2014q4.png"
+      ],
+      "page": "Exams/2014_q4b",
+      "waves": 0
+    },
+    "115_ece241_2013_q12": {
+      "images": [],
+      "page": "Exams/ece241_2013_q12",
+      "waves": 0
+    },
+    "116_rule90": {
+      "images": [],
+      "page": "Rule90",
+      "waves": 0
+    },
+    "117_rule110": {
+      "images": [],
+      "page": "Rule110",
+      "waves": 0
+    },
+    "118_conwaylife": {
+      "images": [],
+      "page": "Conwaylife",
+      "waves": 0
+    },
+    "119_fsm1": {
+      "images": [
+        "Fsm1.png"
+      ],
+      "page": "Fsm1",
+      "waves": 0
+    },
+    "120_fsm1s": {
+      "images": [
+        "Fsm1s.png"
+      ],
+      "page": "Fsm1s",
+      "waves": 0
+    },
+    "121_fsm2": {
+      "images": [
+        "Fsmjk.png"
+      ],
+      "page": "Fsm2",
+      "waves": 0
+    },
+    "122_fsm2s": {
+      "images": [
+        "Fsmjks.png"
+      ],
+      "page": "Fsm2s",
+      "waves": 0
+    },
+    "123_fsm3comb": {
+      "images": [],
+      "page": "Fsm3comb",
+      "waves": 0
+    },
+    "124_fsm3onehot": {
+      "images": [],
+      "page": "Fsm3onehot",
+      "waves": 0
+    },
+    "125_fsm3": {
+      "images": [
+        "Fsm3.png"
+      ],
+      "page": "Fsm3",
+      "waves": 0
+    },
+    "126_fsm3s": {
+      "images": [
+        "Fsm3.png"
+      ],
+      "page": "Fsm3s",
+      "waves": 0
+    },
+    "127_ece241_2013_q4": {
+      "images": [
+        "Ece241_2013_q4.png"
+      ],
+      "page": "Exams/ece241_2013_q4",
+      "waves": 0
+    },
+    "128_lemmings1": {
+      "images": [
+        "Lemmings.gif",
+        "Lemmings1.png"
+      ],
+      "page": "Lemmings1",
+      "waves": 1
+    },
+    "129_lemmings2": {
+      "images": [
+        "Lemmings2.gif",
+        "Lemmings2.png"
+      ],
+      "page": "Lemmings2",
+      "waves": 1
+    },
+    "130_lemmings3": {
+      "images": [
+        "Lemmings3.gif",
+        "Lemmings3.png"
+      ],
+      "page": "Lemmings3",
+      "waves": 1
+    },
+    "131_lemmings4": {
+      "images": [
+        "Lemmings4.gif",
+        "Lemmings4.png"
+      ],
+      "page": "Lemmings4",
+      "waves": 2
+    },
+    "132_fsm_onehot": {
+      "images": [
+        "Fsmonehot.png"
+      ],
+      "page": "Fsm_onehot",
+      "waves": 0
+    },
+    "133_fsm_ps2": {
+      "images": [
+        "Fsm_ps2.png"
+      ],
+      "page": "Fsm_ps2",
+      "waves": 3
+    },
+    "134_fsm_ps2data": {
+      "images": [],
+      "page": "Fsm_ps2data",
+      "waves": 1
+    },
+    "135_fsm_serial": {
+      "images": [],
+      "page": "Fsm_serial",
+      "waves": 2
+    },
+    "136_fsm_serialdata": {
+      "images": [],
+      "page": "Fsm_serialdata",
+      "waves": 1
+    },
+    "137_fsm_serialdp": {
+      "images": [],
+      "page": "Fsm_serialdp",
+      "waves": 1
+    },
+    "138_fsm_hdlc": {
+      "images": [
+        "Fsm_hdlc.png"
+      ],
+      "page": "Fsm_hdlc",
+      "waves": 3
+    },
+    "139_ece241_2013_q8": {
+      "images": [],
+      "page": "Exams/ece241_2013_q8",
+      "waves": 0
+    },
+    "140_ece241_2014_q5a": {
+      "images": [],
+      "page": "Exams/ece241_2014_q5a",
+      "waves": 1
+    },
+    "141_ece241_2014_q5b": {
+      "images": [
+        "Ece241_2014_q5b.png"
+      ],
+      "page": "Exams/ece241_2014_q5b",
+      "waves": 1
+    },
+    "142_2014_q3fsm": {
+      "images": [
+        "Exams_2014q3fsm.png"
+      ],
+      "page": "Exams/2014_q3fsm",
+      "waves": 1
+    },
+    "143_2014_q3bfsm": {
+      "images": [],
+      "page": "Exams/2014_q3bfsm",
+      "waves": 0
+    },
+    "144_2014_q3c": {
+      "images": [],
+      "page": "Exams/2014_q3c",
+      "waves": 0
+    },
+    "145_m2014_q6b": {
+      "images": [
+        "Exams_m2014q6.png"
+      ],
+      "page": "Exams/m2014_q6b",
+      "waves": 0
+    },
+    "146_m2014_q6c": {
+      "images": [
+        "Exams_m2014q6.png"
+      ],
+      "page": "Exams/m2014_q6c",
+      "waves": 0
+    },
+    "147_m2014_q6": {
+      "images": [
+        "Exams_m2014q6.png"
+      ],
+      "page": "Exams/m2014_q6",
+      "waves": 0
+    },
+    "148_2012_q2fsm": {
+      "images": [
+        "Exams_2012q2.png"
+      ],
+      "page": "Exams/2012_q2fsm",
+      "waves": 0
+    },
+    "149_2012_q2b": {
+      "images": [
+        "Exams_2012q2.png"
+      ],
+      "page": "Exams/2012_q2b",
+      "waves": 0
+    },
+    "150_2013_q2afsm": {
+      "images": [
+        "Exams_2013q2.png"
+      ],
+      "page": "Exams/2013_q2afsm",
+      "waves": 0
+    },
+    "151_2013_q2bfsm": {
+      "images": [],
+      "page": "Exams/2013_q2bfsm",
+      "waves": 0
+    },
+    "152_review2015_count1k": {
+      "images": [],
+      "page": "Exams/review2015_count1k",
+      "waves": 1
+    },
+    "153_review2015_shiftcount": {
+      "images": [],
+      "page": "Exams/review2015_shiftcount",
+      "waves": 1
+    },
+    "154_review2015_fsmseq": {
+      "images": [],
+      "page": "Exams/review2015_fsmseq",
+      "waves": 1
+    },
+    "155_review2015_fsmshift": {
+      "images": [],
+      "page": "Exams/review2015_fsmshift",
+      "waves": 1
+    },
+    "156_review2015_fsm": {
+      "images": [
+        "Exams_review2015_fsmonehot.png"
+      ],
+      "page": "Exams/review2015_fsm",
+      "waves": 1
+    },
+    "157_review2015_fancytimer": {
+      "images": [],
+      "page": "Exams/review2015_fancytimer",
+      "waves": 1
+    },
+    "158_review2015_fsmonehot": {
+      "images": [
+        "Exams_review2015_fsmonehot.png"
+      ],
+      "page": "Exams/review2015_fsmonehot",
+      "waves": 0
+    },
+    "159_bugs_mux2": {
+      "images": [],
+      "page": "Bugs_mux2",
+      "waves": 0
+    },
+    "160_bugs_nand3": {
+      "images": [],
+      "page": "Bugs_nand3",
+      "waves": 0
+    },
+    "161_bugs_mux4": {
+      "images": [],
+      "page": "Bugs_mux4",
+      "waves": 0
+    },
+    "162_bugs_addsubz": {
+      "images": [],
+      "page": "Bugs_addsubz",
+      "waves": 0
+    },
+    "163_bugs_case": {
+      "images": [],
+      "page": "Bugs_case",
+      "waves": 0
+    },
+    "164_circuit1": {
+      "images": [],
+      "page": "Sim/circuit1",
+      "waves": 1
+    },
+    "165_circuit2": {
+      "images": [],
+      "page": "Sim/circuit2",
+      "waves": 1
+    },
+    "166_circuit3": {
+      "images": [],
+      "page": "Sim/circuit3",
+      "waves": 1
+    },
+    "167_circuit4": {
+      "images": [],
+      "page": "Sim/circuit4",
+      "waves": 1
+    },
+    "168_circuit5": {
+      "images": [],
+      "page": "Sim/circuit5",
+      "waves": 2
+    },
+    "169_circuit6": {
+      "images": [],
+      "page": "Sim/circuit6",
+      "waves": 1
+    },
+    "170_circuit7": {
+      "images": [],
+      "page": "Sim/circuit7",
+      "waves": 1
+    },
+    "171_circuit8": {
+      "images": [],
+      "page": "Sim/circuit8",
+      "waves": 1
+    },
+    "172_circuit9": {
+      "images": [],
+      "page": "Sim/circuit9",
+      "waves": 1
+    },
+    "173_circuit10": {
+      "images": [],
+      "page": "Sim/circuit10",
+      "waves": 1
+    },
+    "174_tb_clock": {
+      "images": [],
+      "page": "Tb/clock",
+      "waves": 1
+    },
+    "175_tb_tb1": {
+      "images": [],
+      "page": "Tb/tb1",
+      "waves": 1
+    },
+    "176_tb_and": {
+      "images": [],
+      "page": "Tb/and",
+      "waves": 1
+    },
+    "177_tb_tb2": {
+      "images": [],
+      "page": "Tb/tb2",
+      "waves": 1
+    },
+    "178_tb_tff": {
+      "images": [],
+      "page": "Tb/tff",
+      "waves": 0
+    },
+    "179_timer": {
+      "images": [],
+      "page": "Cs450/timer",
+      "waves": 1
+    },
+    "180_counter_2bc": {
+      "images": [
+        "Fsm_2bc.png"
+      ],
+      "page": "Cs450/counter_2bc",
+      "waves": 0
+    },
+    "181_history_shift": {
+      "images": [
+        "Branch_history.png"
+      ],
+      "page": "Cs450/history_shift",
+      "waves": 0
+    },
+    "182_gshare": {
+      "images": [
+        "Branch_predictor.png"
+      ],
+      "page": "Cs450/gshare",
+      "waves": 1
+    }
+  },
+  "problems": 182,
+  "unique_images": 83,
+  "waveforms_written": 52
+}
